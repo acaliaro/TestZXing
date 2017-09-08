@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{177DE2DC-8B1C-4F73-AA97-788DDAD67A14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestZXing/TestZXing.cs">
+    <Files>
+      <File FileName="TestZXing/TestZXing.cs" Line="27" Column="29" />
+      <File FileName="TestZXing/ScanPage.cs" Line="109" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestZXing.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A9090780-09DC-4E0D-BBB8-A8DFE9648793">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TestZXing.iOS>
+  <MonoDevelop.Ide.ItemProperties.TestZXing.Droid PreferredExecutionTarget="Android.01575C2C0200901E" />
+</Properties>
